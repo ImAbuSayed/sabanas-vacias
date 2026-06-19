@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sabanas-vacias/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Sábanas vacías](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-vacias/) |
+| **Get License** | [Commercial Licensing for Sábanas vacías](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-vacias/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -115,8 +115,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | Verification Detail | Information |
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
-| **Version** | `v1` |
-| **SHA-256 Hash** | `ea31862dfa7c9c098de679b90ffe4378864d65aa707d167ae14cd37af3a31e46` |
+| **Version** | `v2` |
+| **SHA-256 Hash** | `9bad2a15f5b4aaee19a817d5aa8c19d1e6bf063a743516f20f2304466a741faa` |
 | **Timestamp** | June 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
