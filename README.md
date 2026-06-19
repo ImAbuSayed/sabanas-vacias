@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sabanas-vacias/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Sábanas vacías](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-vacias/) |
+| **Get License** | [Obtain a Music License for Sábanas vacías](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-vacias/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Sábanas vacías donde tú no estás
+> Tu cuerpo ausente que no puedo olvidar
+> Esta noche fría me pide más
+> Ven que te espero, no me dejes atrás
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
