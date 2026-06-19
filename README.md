@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sabanas-vacias/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Sábanas vacías](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-vacias/) |
+| **Get License** | [Get a Licensing Quote for Sábanas vacías](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-vacias/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Sábanas vacías donde tú no estás
-> Tu cuerpo ausente que no puedo olvidar
-> Esta noche fría me pide más
-> Ven que te espero, no me dejes atrás
+> Sábanas vacías, pero tu olor no se va
+> Me dejaste el fuego, dime cuándo volverás
+> Acelero en la noche, el motor rugiendo de más
+> Nadie tiene ese piquete, baby, tú eres la jefa
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
